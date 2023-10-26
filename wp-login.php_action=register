@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+	<html lang="en-US">
+	<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Registration Form &lsaquo; Coursia &#8212; WordPress</title>
+	<meta name='robots' content='max-image-preview:large, noindex, noarchive' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<script src='https://coursia.iamabdus.com/v1.1/wp-includes/js/dist/vendor/wp-polyfill-inert.min.js?ver=3.1.2' id='wp-polyfill-inert-js'></script>
+<script src='https://coursia.iamabdus.com/v1.1/wp-includes/js/dist/vendor/regenerator-runtime.min.js?ver=0.13.11' id='regenerator-runtime-js'></script>
+<script src='https://coursia.iamabdus.com/v1.1/wp-includes/js/dist/vendor/wp-polyfill.min.js?ver=3.15.0' id='wp-polyfill-js'></script>
+<script src='https://coursia.iamabdus.com/v1.1/wp-includes/js/dist/hooks.min.js?ver=c6aec9a8d4e5a5d543a1' id='wp-hooks-js'></script>
+<script src='https://stats.wp.com/w.js?ver=202343' id='woo-tracks-js'></script>
+<link rel='stylesheet' id='dashicons-css' href='https://coursia.iamabdus.com/v1.1/wp-includes/css/dashicons.min.css?ver=6.3.2' media='all' />
+<link rel='stylesheet' id='buttons-css' href='https://coursia.iamabdus.com/v1.1/wp-includes/css/buttons.min.css?ver=6.3.2' media='all' />
+<link rel='stylesheet' id='forms-css' href='https://coursia.iamabdus.com/v1.1/wp-admin/css/forms.min.css?ver=6.3.2' media='all' />
+<link rel='stylesheet' id='l10n-css' href='https://coursia.iamabdus.com/v1.1/wp-admin/css/l10n.min.css?ver=6.3.2' media='all' />
+<link rel='stylesheet' id='login-css' href='https://coursia.iamabdus.com/v1.1/wp-admin/css/login.min.css?ver=6.3.2' media='all' />
+	<meta name='referrer' content='strict-origin-when-cross-origin' />
+		<meta name="viewport" content="width=device-width" />
+	<link rel="icon" href="https://coursia.iamabdus.com/v1.1/wp-content/uploads/2020/07/cropped-icon-32x32.png" sizes="32x32" />
+<link rel="icon" href="https://coursia.iamabdus.com/v1.1/wp-content/uploads/2020/07/cropped-icon-192x192.png" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://coursia.iamabdus.com/v1.1/wp-content/uploads/2020/07/cropped-icon-180x180.png" />
+<meta name="msapplication-TileImage" content="https://coursia.iamabdus.com/v1.1/wp-content/uploads/2020/07/cropped-icon-270x270.png" />
+	</head>
+	<body class="login no-js login-action-register wp-core-ui  locale-en-us">
+	<script type="text/javascript">
+		document.body.className = document.body.className.replace('no-js','js');
+	</script>
+		<div id="login">
+		<h1><a href="https://wordpress.org/">Powered by WordPress</a></h1>
+	<p class="message register">Register For This Site</p>
+		<form name="registerform" id="registerform" action="https://coursia.iamabdus.com/v1.1/wp-login.php?action=register" method="post" novalidate="novalidate">
+			<p>
+				<label for="user_login">Username</label>
+				<input type="text" name="user_login" id="user_login" class="input" value="" size="20" autocapitalize="off" autocomplete="username" required="required" />
+			</p>
+			<p>
+				<label for="user_email">Email</label>
+				<input type="email" name="user_email" id="user_email" class="input" value="" size="25" autocomplete="email" required="required" />
+			</p>
+						<p id="reg_passmail">
+				Registration confirmation will be emailed to you.			</p>
+			<br class="clear" />
+			<input type="hidden" name="redirect_to" value="" />
+			<p class="submit">
+				<input type="submit" name="wp-submit" id="wp-submit" class="button button-primary button-large" value="Register" />
+			</p>
+		</form>
+
+		<p id="nav">
+			<a href="https://coursia.iamabdus.com/v1.1/wp-login.php">Log in</a>
+			 | <a href="https://coursia.iamabdus.com/v1.1/my-account/lost-password/">Lost your password?</a>		</p>
+				<p id="backtoblog">
+			<a href="https://coursia.iamabdus.com/v1.1/">&larr; Go to Coursia</a>		</p>
+			</div>
+					<script type="text/javascript">
+		try{document.getElementById('user_login').focus();}catch(e){}
+		if(typeof wpOnload==='function')wpOnload();
+		</script>
+			<div class="clear"></div>
+	<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"81b99a5d7e93b7a9","version":"2023.10.0","r":1,"token":"6ab1814688eb46d9922ef568cb561268","b":1}' crossorigin="anonymous"></script>
+</body>
+	</html>
+	
