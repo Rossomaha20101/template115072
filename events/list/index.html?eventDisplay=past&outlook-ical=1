@@ -1,0 +1,62 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Coursia - ECPv6.2.2//NONSGML v1.0//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-ORIGINAL-URL:https://coursia.iamabdus.com/v1.1
+X-WR-CALDESC:Events for Coursia
+REFRESH-INTERVAL;VALUE=DURATION:PT1H
+X-Robots-Tag:noindex
+X-PUBLISHED-TTL:PT1H
+BEGIN:VTIMEZONE
+TZID:UTC
+BEGIN:STANDARD
+TZOFFSETFROM:+0000
+TZOFFSETTO:+0000
+TZNAME:UTC
+DTSTART:20200101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20200904T080000
+DTEND;TZID=UTC:20220808T170000
+DTSTAMP:20231025T095949
+CREATED:20200611T054407Z
+LAST-MODIFIED:20200901T060749Z
+UID:2814-1599206400-1659978000@coursia.iamabdus.com
+SUMMARY:Slate & Crystal Events
+DESCRIPTION:The Digital Transformation Conference brings together leaders spearheading digital initiatives in their organizations to offer insights into their digital transformation journey’s. \nJoin digital business leaders as the event returns to Boston early 2019 to navigate digital transformation with an agenda packed full of presentations\, fireside chats\, panel discussions & networking opportunities. \nThe Digital Transformation Conference brings together leaders spearheading digital initiatives in their organizations to offer insights into their digital transformation journey’s. \nJoin digital business leaders as the event returns to Boston early 2019 to navigate digital transformation with an agenda packed full of presentations\, fireside chats\, panel discussions & networking opportunities.
+URL:https://coursia.iamabdus.com/v1.1/event/digital-transformation-conference/
+LOCATION:Fairmont Royal York\, Waterfront Communities - The Island\, Torrento City\, Torrento City\, 416\, Canada
+ATTACH;FMTTYPE=image/jpeg:https://coursia.iamabdus.com/v1.1/wp-content/uploads/2020/06/courisa-gallery-masonry-9.jpg
+ORGANIZER;CN="Brain Station":MAILTO:brain-station@admin.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;VALUE=DATE:20200903
+DTEND;VALUE=DATE:20211101
+DTSTAMP:20231025T095949
+CREATED:20200611T064957Z
+LAST-MODIFIED:20200901T060731Z
+UID:2827-1599091200-1635724799@coursia.iamabdus.com
+SUMMARY:Done Right Event Designs
+DESCRIPTION:Pellentesque non dolor eu odio cursus bibendum in vitae lectus. Pellentesque dapibus massa sit amet magna vulputate euismod. Mauris id justo non felis pharetra scelerisque. Nunc sem metus\, luctus sit amet fringilla in\, pretium in metus. Class aptent taciti sociosqu ad litora torquent per conubia nostra\, per inceptos himenaeos. \nOrci varius natoque penatibus et magnis dis parturient montes\, nascetur ridiculus mus. Duis fermentum velit eu ipsum ultricies auctor. Pellentesque non euismod elit. Praesent tellus nibh\, laoreet tristique interdum at\, porta ac magna. Morbi dui nunc\, elementum sit amet vulputate ac\, eleifend eu odio. Donec ultricies mattis sapien sed maximus. \nNulla varius ante massa\, sed elementum mi pulvinar at. Vestibulum convallis lectus a efficitur sollicitudin.
+URL:https://coursia.iamabdus.com/v1.1/event/done-right-event-designs/
+LOCATION:Fairmont Royal York\, Waterfront Communities - The Island\, Torrento City\, Torrento City\, 416\, Canada
+ATTACH;FMTTYPE=image/jpeg:https://coursia.iamabdus.com/v1.1/wp-content/uploads/2020/06/courisa-gallery-grid-3.jpg
+ORGANIZER;CN="Rutherford":MAILTO:rutherford@admin.com
+END:VEVENT
+BEGIN:VEVENT
+DTSTART;TZID=UTC:20200902T080000
+DTEND;TZID=UTC:20211130T170000
+DTSTAMP:20231025T095949
+CREATED:20200611T064821Z
+LAST-MODIFIED:20200901T060714Z
+UID:2825-1599033600-1638291600@coursia.iamabdus.com
+SUMMARY:Buttercup Events
+DESCRIPTION:Lorem ipsum dolor sit amet\, consectetur adipiscing elit. Vestibulum euismod sapien ac ex gravida aliquet. Cras vitae justo in urna rutrum euismod. Nullam nibh leo\, lacinia ac tincidunt ac\, pellentesque nec ipsum. Aliquam ut sapien non eros ullamcorper congue quis tincidunt est. Morbi viverra iaculis tortor\, quis auctor erat volutpat at. Aliquam iaculis scelerisque enim. Praesent egestas scelerisque ante vitae cursus. Etiam condimentum sodales lectus\, ut tempus neque efficitur et. Aenean tincidunt ipsum dictum nisi imperdiet tempus. Phasellus nec erat lacus. Suspendisse potenti.
+URL:https://coursia.iamabdus.com/v1.1/event/buttercup-events/
+LOCATION:One King West Hotel & Residence\, 26 Goodwood Park Cres East York ON M4C 2G5(Toronto \,Ontari\, Torrento City\, Torrento City\, 416\, Canada
+ATTACH;FMTTYPE=image/jpeg:https://coursia.iamabdus.com/v1.1/wp-content/uploads/2020/06/courisa-gallery-masonry-6.jpg
+ORGANIZER;CN="Rau-Wunsch":MAILTO:rau-wunsch@admin.com
+END:VEVENT
+END:VCALENDAR
