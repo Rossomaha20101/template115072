@@ -245,11 +245,53 @@
 
 <body data-rsssl=1 class="home page-template-default page page-id-102 wp-custom-logo theme-coursia tutor-lms woocommerce-no-js tribe-no-js elementor-default elementor-kit-101 elementor-page elementor-page-102">
 <!-- ============= Preloader Setting  ================== -->
+<style>
+div{
+    width: 3px;
+    height: 3px;
+    background: #fff;
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: 0 auto;
+    top:50%;
+    transform-origin: 0 0;
+    transform: translateY(-50%);
+    border-radius: 50%;
+    animation: rotate 270s infinite linear;
+}
+@keyframes rotate{
+    0%{
+        transform: rotate(0deg);
+    }
+    100%{
+        transform: rotate(360deg);
+    }
+}
+</style>
 <div id="preloader" class="smooth-loader-wrapper">
 	<div class="loader">
 		<img src="logo.png" alt="Loading...">
+		<div id="stars"></div>
 	</div>
 </div>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script>
+var boxshadow = "";
+
+for(var i = 0; i <= 2000; i++){
+    px = Math.random() < 0.5 ? "-" : "";
+    py = Math.random() < 0.5 ? "-" : "";
+    x = Math.floor((Math.random() * window.innerWidth) + 1);
+    y = Math.floor((Math.random() * window.innerHeight) + 1);
+    s = Math.floor((Math.random() * 2) - 1);
+    boxshadow += px+x+"px "+py+y+"px 0 "+s+"px #fff,";
+}
+
+boxshadow = boxshadow.slice(0, -1);
+
+stars.style.boxShadow = boxshadow;
+</script>
 <div id="page" class="site">
 	<main><a class="skip-link screen-reader-text" href="#primary">Skip to content</a></main>
 	<header id="masthead" class="site-header">
