@@ -3,9 +3,21 @@
 .elementor-102 .elementor-element.elementor-element-311196e > .elementor-element-populated{margin:0px 0px 0px 0px;--e-column-margin-right:0px;--e-column-margin-left:0px;padding:0px 0px 0px 0px;}
 .elementor-102 .elementor-element.elementor-element-aa10058 .bdt-slideshow .bdt-slideshow-items .bdt-slideshow-title{font-family:"Poppins", Sans-serif;font-size:72px;font-weight:300;line-height:108px;margin-top:0px;}
 .elementor-102 .elementor-element.elementor-element-aa10058 .bdt-slideshow .bdt-slideshow-items .bdt-slideshow-text{color:#FFFFFF;font-family:"Nunito", Sans-serif;font-size:18px;}
-.elementor-102 .elementor-element.elementor-element-aa10058 .bdt-slideshow .bdt-slideshow-items .bdt-slideshow-button{color:#FFFFFF;background-color:#FE79A2;border-style:solid;border-width:2px 2px 2px 2px;border-color:#FE79A2;border-radius:45px 45px 45px 45px;padding:18px 45px 18px 45px;font-family:"Nunito", Sans-serif;font-size:18px;}
+.elementor-102 .elementor-element.elementor-element-aa10058 .bdt-slideshow .bdt-slideshow-items .bdt-slideshow-button{
+	color:#2f5597;
+	background-color:#FFFFFF;
+	border-style:solid;
+	border-width:2px 2px 2px 2px;
+	border-color:#FFFFFF;
+	border-radius:45px 45px 45px 45px;
+	padding:18px 45px 18px 45px;
+	font-family:"Nunito", Sans-serif;
+	font-size:18px;}
 .elementor-102 .elementor-element.elementor-element-aa10058 .bdt-slideshow .bdt-slideshow-items .bdt-slideshow-button svg{fill:#FFFFFF;}
-.elementor-102 .elementor-element.elementor-element-aa10058 .bdt-slideshow .bdt-slideshow-items .bdt-slideshow-button:hover{color:#FFFFFF;background-color:rgba(2, 1, 1, 0);border-color:#FE79A2;}
+.elementor-102 .elementor-element.elementor-element-aa10058 .bdt-slideshow .bdt-slideshow-items .bdt-slideshow-button:hover{
+	color:#2f5597;
+	background-color:rgba(2, 1, 1, 0);
+	border-color:#FFFFFF;}
 .elementor-102 .elementor-element.elementor-element-aa10058 .bdt-slideshow .bdt-slideshow-items .bdt-slideshow-button:hover svg{fill:#FFFFFF;}
 .elementor-102 .elementor-element.elementor-element-aa10058 .bdt-slideshow .bdt-slideshow-content-wrapper{max-width:1140px;}
 .elementor-102 .elementor-element.elementor-element-aa10058 .bdt-slideshow .bdt-slideshow-content-wrapper .bdt-slideshow-text{max-width:1140px;}
